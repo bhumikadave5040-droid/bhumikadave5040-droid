@@ -123,7 +123,7 @@ const bhumikaDave = {
 <img src="https://raw.githubusercontent.com/bhumikadave5040-droid/bhumikadave5040-droid/output/snake-dark.svg" width="90%" />
 </div>
 
-> ⚙️ The snake animation above needs a one-time GitHub Action to generate itself. I've included the workflow file (`snake.yml`) alongside this README — see the note at the bottom for setup.
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
